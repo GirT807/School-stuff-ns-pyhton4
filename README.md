@@ -9,7 +9,7 @@ it was focused with the following not all but the main:
 - calculate the average grade after getting the students grades
 - validate the entered grades are valid
   
-![image alt]()
+![image alt](https://github.com/GirT807/School-stuff-ns-pyhton4/blob/31451b2d83358fcb25ff6b4eeebe3ae3b3c263c5/sec%20A.png)
 
 above is a sample after you run the code:
 the entered number of students i made it into a loop to collect grades from 3 students like i indicated
@@ -24,7 +24,7 @@ it has the following not all but main ones:
 - lists
 - minimum and maximum value
 
-![image alt]()
+![image alt](https://github.com/GirT807/School-stuff-ns-pyhton4/blob/31451b2d83358fcb25ff6b4eeebe3ae3b3c263c5/sec%20A%20B.png)
 
 above is how the terminal should look like after running the code
 
@@ -39,15 +39,18 @@ i added the following:
 - dictionaries
 - menu
 
-![image alt]()
+![image alt](https://github.com/GirT807/School-stuff-ns-pyhton4/blob/31451b2d83358fcb25ff6b4eeebe3ae3b3c263c5/menu%20and%20dict.png)
+
 in the above picture i created dictionanry to store the student name as the key and another dictionary to serve as value for the main dictionary
 
 
-![image alt]()
+![image alt](https://github.com/GirT807/School-stuff-ns-pyhton4/blob/31451b2d83358fcb25ff6b4eeebe3ae3b3c263c5/add%20and%20delet.png)
+
 one of the objectives of this ssection is to add and remove students which i have shown how it will look like
 
 
-![image alt]()
+![image alt](https://github.com/GirT807/School-stuff-ns-pyhton4/blob/31451b2d83358fcb25ff6b4eeebe3ae3b3c263c5/update%20view.png)
+
 finally how updating students results would look like as well as displaying all grades for 1 subject
 
 
